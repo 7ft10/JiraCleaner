@@ -10,6 +10,8 @@
 		"iloc",
 		"isin",
 		"isls",
+		"isna",
+		"issuelinks",
 		"issuetypescreenscheme",
 		"issuetypescreenschemes",
 		"resolutiondate",
