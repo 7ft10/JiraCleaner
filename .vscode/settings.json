@@ -1,12 +1,18 @@
 {
 	"cSpell.words": [
+		"astype",
+		"dtypes",
 		"fieldconfiguration",
 		"fieldconfigurations",
 		"fieldconfigurationscheme",
 		"fieldconfigurationschemes",
+		"fillna",
+		"iloc",
+		"isin",
 		"isls",
 		"issuetypescreenscheme",
 		"issuetypescreenschemes",
+		"resolutiondate",
 		"screenscheme",
 		"screenschemes",
 		"workflowschemes"
