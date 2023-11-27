@@ -23,5 +23,5 @@
 		"screenschemes",
 		"workflowschemes"
 	],
-	"editor.detectIndentation": false
+	"editor.detectIndentation": true
 }
